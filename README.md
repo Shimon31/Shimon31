@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD. Sadek Bhuiya Shimon</h1>
-<h3 align="center">🚀 Android App Developer | Tech Enthusiast | Life-long Learner</h3>
+<h3 align="center">🚀 Android & IOS App Developer | Tech Enthusiast | Life-long Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=3498DB&width=435&lines=Android+Developer;Kotlin+%7C+Java+Lover;Passionate+about+Learning+and+Sharing" alt="Typing SVG" />
